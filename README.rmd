@@ -1,0 +1,21 @@
+Algorithm
+-------
+CQPCorr: Censored Quantile Partial Correlation
+
+
+Maintainer
+-------
+Yaqing Xu <yaqing.xu@yale.edu>
+
+Publication
+-------
+Yaqing Xu, Mengyun Wu, Qingzhao Zhang, and Shuangge Ma (2017). Robust Identification of Gene-environment Interactions for Prognosis Using a Censored Quantile Partial Correlation Approach (Under review)
+
+Usage
+-------
+1. Functions: 
+    + reweight: to calculate weights for step I in cqpcorr
+    + cqpcorr: the algorithm for calculating CQPCorr 
+  
+  
+2. Example: to obtain the correlation matrix using simulated data
